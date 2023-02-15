@@ -7,7 +7,7 @@ software.
 
 [Podcast](https://www.discovering-emacs.com) | [Twitter](https://twitter.com/DiscoverEmacs_)
 
-![Discovering Emacs](/assets/images/discovering-emacs-podcast-banner.png "Podcast banner for: Discovering Emacs")
+![Discovering Emacs](https://raw.githubusercontent.com/VernonGrant/discovering-emacs/main/assets/images/discovering-emacs-podcast-banner.png "Podcast banner for: Discovering Emacs")
 
 ## Show Notes
 
