@@ -15,4 +15,4 @@ Use the below list to read the show notes for each episode.
 
 ### Episodes:
 
-- Unknown
+- [1 - Finding Files Recursively Using Locate](./show-notes/1-finding-files-recursively-using-locate.md)
