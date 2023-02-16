@@ -1,5 +1,7 @@
 # 1 - Finding Files Recursively Using Locate
 
+[Listen to episode](https://www.discovering-emacs.com/2134279/12265945-1-finding-files-recursively-using-locate)
+
 ## What is locate?
 
 Locate is a program that searches for a specific pattern inside a database that contains pathnames. The command used for updating the database is called `updatedb`.
