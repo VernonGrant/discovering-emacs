@@ -6,19 +6,19 @@ Locate is a program that searches for a specific pattern inside a database that 
 
 Once the database has been generated, you can use `locate` to find all matching file paths inside of the database. It does this almost instantly, making it a great choice to find files inside of unknown locations. All you need to do is run `locate pattern` to find matches. You can also make use of shell globbing and quoting characters to help narrow the results.
 
-On Linux you should be all set, but if your on a Mac, please conceder installing `findutils` via brew, instead of trying to use the default `locate` and `updatedb` commands. The brew version of these commands will be prefixed with a `g`, so you'll need to run `glocate` and `gupdatedb`.
+On Linux you should be all set, but if your on a Mac, please conceder installing `findutils`, via brew, instead of trying to use the default `locate` and `updatedb` commands. The brew version of these commands will be prefixed with a `g`, so you'll need to run `glocate` and `gupdatedb`.
 
 ## Using locate in combination with Emacs
 
-Emacs already has a command named locate. When running this command you can pass it a string, and locate will then look through the database for all the matching paths and lists all the results in an Emacs buffer. This buffer also features some additional functionality, but we won't be covering that today.
+Emacs already has a command named locate. When running this command you can pass it a string, and locate will then look through the database for all the matching paths, and lists all the results in an Emacs buffer. This buffer also features some additional functionality, but we won't be covering that today.
 
-This can obviously save you time when your looking for a file, but can't remember where it's located. But for most of my personal use cases, I'm more interested in finding files recursively inside a specific projects scope, and that's what we'll be discussing next.
+This can obviously save you time when your looking for a file, but can't remember where it's located. But for most of my personal use cases, I'm more interested in finding files recursively inside a specific project's scope, and that's what we'll be discussing next.
 
 ## Using locate for individual projects
 
 There are many ways you can go about configuring locate in and outside of Emacs. The following is what I came up, but feel free to experiment and come up with better solutions.
 
-First, we don't really want to generate a database for our entire file system, so we can configure locate to generate a database just for the folder containing our projects. We will write a Emacs lisp function that calls `updatedb` with two arguments, `localpaths` that specifies the folder that contains all our projects, and `output` that specifies the location of our database file. In addition we also need to create an environment variable that specifies the same database path, named `LOCATE_PATH`, we can do this inside of our dot Emacs configuration file.
+First, we don't really want to generate a database for our entire file system, so we can configure locate to generate a database just for the folder containing our projects. We will write a Emacs lisp function that calls `updatedb` with two arguments, `localpaths` that specifies the folder that contains all our projects, and `output` that specifies the location of our database file. In addition, we also need to create an environment variable that specifies the same database path, named `LOCATE_PATH`, we can do this inside of our dot Emacs configuration file.
 
 If your on Mac-OS, you'll also need to set two additional Emacs option variables, for `locate-command` and `locate-update-command` as we need to take into account the `g` prefix.
 
