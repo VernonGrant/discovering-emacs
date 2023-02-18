@@ -1,6 +1,6 @@
 # Discovering Emacs - Podcast
 
-**A podcast all about GNU Emacs**, where I uncover some of it’s lesser known
+**A podcast all about GNU Emacs**, where I uncover some of its lesser known
 features, discussed upcoming releases and share some tips and tricks. Join me as
 we discover some of the most valuable aspects of this wonderful piece of
 software.
