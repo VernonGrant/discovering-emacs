@@ -22,7 +22,7 @@ There are many ways you can go about configuring locate in and outside of Emacs.
 
 First, we don't really want to generate a database for our entire file system, so we can configure locate to generate a database just for the folder containing our projects. We will write a Emacs lisp function that calls `updatedb` with two arguments, `localpaths` that specifies the folder that contains all our projects, and `output` that specifies the location of our database file. In addition, we also need to create an environment variable that specifies the same database path, named `LOCATE_PATH`, we can do this inside of our dot Emacs configuration file.
 
-If your on Mac-OS, you'll also need to set two additional Emacs option variables, for `locate-command` and `locate-update-command` as we need to take into account the `g` prefix.
+If your on macOS, you'll also need to set two additional Emacs option variables, for `locate-command` and `locate-update-command` as we need to take into account the `g` prefix.
 
 Next we will define two helper functions inside our dot Emacs configuration. The first function will help us update our locate database when needed. The second will help us automatically filter the results based on the projects root folder, this allows us to use locate for only project specific files.
 
