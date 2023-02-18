@@ -32,8 +32,8 @@ Next we will define two helper functions inside our dot Emacs configuration. The
 ;;;;;;;;;;;;;;;
 
 (defun vg-get-the-project-path()
-  "Get's a projects root directory if found.
-Tries to find the .git folder or a .dirlocals.el file and basis the projects
+  "Get a projects root directory if found.
+Try to find the .git folder or a .dirlocals.el file and base the projects
 root on that."
   (let ((dirlocals-file (locate-dominating-file default-directory ".dir-locals.el"))
         (git-folder (locate-dominating-file default-directory ".git")))
