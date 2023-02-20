@@ -5,7 +5,7 @@ features, discussed upcoming releases and share some tips and tricks. Join me as
 we discover some of the most valuable aspects of this wonderful piece of
 software.
 
-[Podcast Feed](https://www.discovering-emacs.com) | [Discussions](https://github.com/VernonGrant/discovering-emacs/discussions) | [Twitter](https://twitter.com/DiscoverEmacs)
+[Podcast Feed](https://www.discovering-emacs.com) | [Discussions](https://github.com/VernonGrant/discovering-emacs/discussions) | [Twitter](https://twitter.com/DiscoverEmacs) | [YouTube](https://www.youtube.com/@discoveringemacs)
 
 ![Discovering Emacs](https://raw.githubusercontent.com/VernonGrant/discovering-emacs/main/assets/images/discovering-emacs-podcast-banner.png "Podcast banner for: Discovering Emacs")
 
