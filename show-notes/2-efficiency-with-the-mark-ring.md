@@ -1,6 +1,6 @@
 # 2 - Efficiency With The Mark Ring
 
-Welcome to the discovering Emacs podcast, this is episode 2 and today we will be taking a look at an Emacs feature known as the mark ring.
+[Listen to episode](https://www.discovering-emacs.com/2134279/12309075-2-efficiency-with-the-mark-ring)
 
 ## What is the mark ring
 
