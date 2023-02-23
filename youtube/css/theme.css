@@ -50,7 +50,8 @@ section pre {
     line-height: 1.2;
 }
 
-section p code {
+section p code,
+section ul li code {
     padding: 3px 8px;
     color: var(--section-inline-code-color);
     background: var(--section-inline-code-background);
