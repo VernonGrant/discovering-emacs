@@ -1,6 +1,6 @@
 # 1 - Finding Files Recursively Using Locate
 
-[Listen to episode](https://www.discovering-emacs.com/2134279/12265945-1-finding-files-recursively-using-locate) | [YouTube Video](https://youtu.be/Qz8O9XWKFwM)
+[Listen To Episode](https://www.discovering-emacs.com/2134279/12265945-1-finding-files-recursively-using-locate) | [YouTube Video](https://youtu.be/Qz8O9XWKFwM)
 
 ## What is locate?
 

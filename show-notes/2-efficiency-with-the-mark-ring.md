@@ -1,6 +1,6 @@
 # 2 - Efficiency With The Mark Ring
 
-[Listen to episode](https://www.discovering-emacs.com/2134279/12309075-2-efficiency-with-the-mark-ring) | [YouTube Video](https://youtu.be/uhyr8kvKa2I)
+[Listen To Episode](https://www.discovering-emacs.com/2134279/12309075-2-efficiency-with-the-mark-ring) | [YouTube Video](https://youtu.be/uhyr8kvKa2I)
 
 ## What is the mark ring
 
