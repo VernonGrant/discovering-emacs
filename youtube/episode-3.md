@@ -17,7 +17,7 @@ Today I'm going to share some of the ways I utilize Emacs's incremental search, 
 
 ## Displaying the number of matches in the Minibuffer
 
-By default incremental search does not provide any indication of the total number of matches that where found for current search term. It also doesn't show us how many more matches we can navigate forward or backward before wrapping, would occur.
+By default incremental search does not provide any indication of the total number of matches that where found for current search term. It also doesn't show us how many more matches we can navigate forward or backward before wrapping would occur.
 
 Luckily, there's a configuration option that solves both of these issues. Setting the option `isearch-lazy-count` to a non nil value, will provide an indicator in the minibuffer that shows the total number of matches found, and how many more lies ahead or behind the current match.
 
@@ -66,7 +66,7 @@ Here's some more yanking shortcuts you can use:
 
 ---
 
-Emacs 27.1 added the option to make all standard movement keys automatically perform yanking operations when, incremental search is active. I don't personally use this, but you try it out by setting `isearch-yank-on-move` to a non nil value.
+Emacs 27.1 added the option to make all standard movement keys automatically perform yanking operations when incremental search is active. I don't personally use this, but you try it out by setting `isearch-yank-on-move` to a non nil value.
 
 ```Lisp
 (setq-default isearch-yank-on-move t)
