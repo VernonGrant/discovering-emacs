@@ -15,6 +15,6 @@ Use the below list to read the show notes for each episode.
 
 ### Episodes:
 
-- [3 - Making incremental search work for you](https://github.com/VernonGrant/discovering-emacs/blob/main/show-notes/3-making-incremental-search-work-for-you.md)
+- [3 - Making Incremental Search Work for You](https://github.com/VernonGrant/discovering-emacs/blob/main/show-notes/3-making-incremental-search-work-for-you.md)
 - [2 - Efficiency With The Mark Ring](https://github.com/VernonGrant/discovering-emacs/blob/main/show-notes/2-efficiency-with-the-mark-ring.md)
 - [1 - Finding Files Recursively Using Locate](https://github.com/VernonGrant/discovering-emacs/blob/main/show-notes/1-finding-files-recursively-using-locate.md)

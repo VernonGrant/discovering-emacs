@@ -1,6 +1,6 @@
-# 3 - Making incremental search work for you
+# 3 - Making Incremental Search Work for You
 
-[Listen to episode]()
+[Listen to episode](https://www.discovering-emacs.com/2134279/12359134-3-making-incremental-search-work-for-you)
 
 Today I'm going to share some of the ways I utilize Emacs's incremental search, during my workflow. In addition I'll be sharing some configuration recommendations that you might also find useful.
 

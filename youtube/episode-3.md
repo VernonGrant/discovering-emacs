@@ -7,7 +7,7 @@ size: 16:9
 
 ---
 
-# Making incremental search work for you
+# Making Incremental Search Work for You
 
 ---
 
