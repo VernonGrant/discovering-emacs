@@ -2,7 +2,7 @@
 
 [Listen To Episode](https://www.discovering-emacs.com/2134279/12444688-4-using-whitespace-mode) | [YouTube Video]()
 
-Today, we're taking at Emacs's `whitespace-mode` and discussing how we can simplify its configuration to make it more applicable for most use cases.
+Today, we're taking a look at Emacs's `whitespace-mode` and discussing how we can simplify its configuration to make it more applicable for most use cases.
 
 ## Introduction
 
