@@ -1,6 +1,6 @@
 # 4 - Using Whitespace Mode
 
-[Listen To Episode](https://www.discovering-emacs.com/2134279/12444688-4-using-whitespace-mode) | [YouTube Video](https://www.youtube.com/watch?v=m2h1aRdZWWI)
+[Listen To Episode](https://www.discovering-emacs.com/2134279/12444688-4-using-whitespace-mode) | [YouTube Video](https://youtu.be/uViGjSqrLDw)
 
 Today, we're taking a look at Emacs's `whitespace-mode` and discussing how we can simplify its configuration to make it more applicable for most use cases.
 
