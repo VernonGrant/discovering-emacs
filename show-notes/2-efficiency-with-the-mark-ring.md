@@ -19,7 +19,7 @@ In addition to the local mark ring, Emacs also offers a global mark ring. The gl
 After writing some Emacs Lisp code to look at the global mark rings state, it became clear that my intuition on how the global mark ring works, was wrong. And based on my experiment, I concluded that a mark, is only added to the global mark ring if the following two condition are met:
 
 1. The mark at the top of the global mark ring's stack (or the latest global mark), must not be for the same buffer.
-~~2. The mark must be unique (or a different location) from previous entries that matches the buffer.~~
+2. ~~The mark must be unique (or a different location) from previous entries that matches the buffer.~~
 
 In essence, you can only change a buffers global mark, if the latest global mark in the stack, is not for the same buffer. ~~And the mark your trying to set is unique in the context of the global mark ring.~~
 
