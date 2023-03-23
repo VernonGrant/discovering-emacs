@@ -1,6 +1,6 @@
 # 5 - Essential Movement and Editing Shortcuts
 
-[Listen To Episode]() | [YouTube Video]()
+[Listen To Episode](https://www.discovering-emacs.com/2134279/12499332-5-essential-movement-and-editing-shortcuts) | [YouTube Video](https://youtu.be/nG3EMqOAWDg)
 
 In today's episode I'll be sharing some default movement and editing shortcuts. I'll only be cover some of the essentials, but I'm sure there's something new for both beginners and experienced Emacs users. At the end I'll share some key binding recommendations to make the editing experience in Emacs slightly better.
 
