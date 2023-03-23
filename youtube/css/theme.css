@@ -68,6 +68,16 @@ section h2 {
     text-transform: uppercase;
 }
 
+section blockquote {
+    margin-left: 0;
+    margin-bottom: 0;
+    padding: 20px 50px;
+    background-color: #181818;
+}
+section blockquote p {
+    margin: 0;
+}
+
 h1 {
     border-bottom: none;
     font-size: 3em;

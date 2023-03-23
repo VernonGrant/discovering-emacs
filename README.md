@@ -15,6 +15,7 @@ Use the below list to read the show notes for each episode.
 
 ### Episodes:
 
+- [5 - Essential Movement and Editing Shortcuts](https://github.com/VernonGrant/discovering-emacs/blob/main/show-notes/5-essential-movement-and-editing-shortcuts.md)
 - [4 - Using Whitespace Mode](https://github.com/VernonGrant/discovering-emacs/blob/main/show-notes/4-using-whitespace-mode.md)
 - [3 - Making Incremental Search Work for You](https://github.com/VernonGrant/discovering-emacs/blob/main/show-notes/3-making-incremental-search-work-for-you.md)
 - [2 - Efficiency With The Mark Ring](https://github.com/VernonGrant/discovering-emacs/blob/main/show-notes/2-efficiency-with-the-mark-ring.md)
