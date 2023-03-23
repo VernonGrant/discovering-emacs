@@ -21,4 +21,4 @@ size: 16:9
 ---
 
 ## New Episode
-# Using Whitespace Mode
+# Essential Movement and Editing Shortcuts
